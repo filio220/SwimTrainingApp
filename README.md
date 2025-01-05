@@ -1,7 +1,14 @@
 
 # SwimTrainingApp
 Aplikacja do śledzenia treningów pływackich.
+Ten projekt został stworzony z myślą o wsparciu trenerów w zarządzaniu statystykami związanymi z różnymi typami zadań. 
+Głównym celem aplikacji jest ułatwienie analizy i monitorowania wyników uczestników, co pozwala na lepsze planowanie i dostosowywanie treningów.
 
+Kluczowe funkcje aplikacji obejmują:
+- Łatwe śledzenie postępów w wykonywaniu poszczególnych zadań,
+- Sprawdzanie i rejestrowanie obecności,
+- Personalizację strategii treningowej
+  
 Instrukcje dotyczące instalacji oraz konfiguracji:
 
 ## Instrukcje instalacji
